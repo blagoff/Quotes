@@ -4,23 +4,37 @@
   background-color: #4284FF;
   color: white;
   text-decoration: none;
-  font-size: 20px; }
+  font-size: 20px;
+  position: absolute; }
 
 .trigger {
-  margin-top: 350px;
+  margin-top: 300px;
+  margin-left: 560px;
   border: 1px solid white;
   width: 400px;
   height: 50px; }
 
 .link {
-  margin-top: 350px;
+  margin-top: 300px;
+  margin-left: 560px;
   border: 1px solid white;
   width: 400px;
   height: 50px;
-  margin-top: 100px;
+  margin-top: 350px;
   margin-left: 560px;
   display: flex;
   align-items: center;
   justify-content: center; }
+  .link i {
+    margin-left: -30px; }
+
+h1 {
+  margin-top: 300px;
+  margin-left: 560px;
+  border: 1px solid white;
+  width: 400px;
+  height: 50px;
+  margin-top: 50px;
+  border: none; }
 
 /*# sourceMappingURL=style.css.map */
