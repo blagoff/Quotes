@@ -5,17 +5,14 @@
 	color: white;
 	text-decoration: none;
 	font-size: 20px;
-	position: absolute;
 }
 
-
-.author, .quote{ 
-	text-align: center;
+h1{
+	margin-left: 35%;
 }
 
 @mixin btn{
-	margin-top: 300px;
-	margin-left: 560px; 
+	margin-top: 100px;
 	border: 1px solid white;
 	width: 400px;
 	height: 50px;
@@ -27,7 +24,7 @@
 
 .link{
 	@include btn;
-	margin-top: 350px;
+	margin-top: 100px; 
 	margin-left: 560px;
 	display: flex; 
 	align-items: center;
