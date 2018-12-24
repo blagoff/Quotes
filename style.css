@@ -7,6 +7,9 @@
   font-size: 20px;
   position: absolute; }
 
+.author, .quote {
+  text-align: center; }
+
 .trigger {
   margin-top: 300px;
   margin-left: 560px;
