@@ -9,6 +9,9 @@
 }
 
 
+.author, .quote{
+	text-align: center;
+}
 
 @mixin btn{
 	margin-top: 300px;
@@ -32,7 +35,7 @@
 
 	i{
 		margin-left: -30px;
-	}
+	} 
 }
 
 h1{
